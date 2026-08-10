@@ -1,0 +1,15 @@
+# Environment secrets
+.env
+
+# Database
+*.db
+bot.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
